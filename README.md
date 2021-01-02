@@ -37,4 +37,4 @@ Summarize in your own words what each code cell is doing.
 Choose another dataset to classify.
 See if you can “fiddle with the knobs” and get a higher accuracy rate from baseline model.
 
-PR <"  ">
+PR <"https://github.com/AyaAbuRashed/text-classifier/pull/2 ">
